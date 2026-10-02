@@ -1,0 +1,28 @@
+[
+    {
+        "productName": "ADIDAS ORIGINAL",
+        "userName": "cetc.midnight1@gmail.com",
+        "password": "VZcom2014$",
+        "url": "https://rahulshettyacademy.com/client",
+        "ccNum": "4542 9931 9292 0090",
+        "ccMonth": "11",
+        "ccYear": "30",
+        "ccSecCode": "444",
+        "ccName": "cetctest passlow",
+        "couponCode": "rahulshettyacademy",
+        "country": " India"
+    },
+    {
+        "productName": "ZARA COAT 3",
+        "userName": "cetc.midnight2@gmail.com",
+        "password": "VZcom2014$",
+        "url": "https://rahulshettyacademy.com/client",
+        "ccNum": "4542 9931 9292 0090",
+        "ccMonth": "11",
+        "ccYear": "30",
+        "ccSecCode": "444",
+        "ccName": "cetctest passlow",
+        "couponCode": "rahulshettyacademy",
+        "country": " India"
+    }
+]

@@ -1,0 +1,13 @@
+[
+  'ADIDAS ORIGINAL$ 11500 View Add To Cart',
+  'ZARA COAT 3$ 11500 View Add To Cart',
+  'iphone 13 pro$ 55000 View Add To Cart'
+]
+[
+  '#6960eac0c941646b7a8b3e68ZARA COAT 3 MRP $ 11500 In Stock',
+  '$ 11500',
+  'Buy Now   '
+]
+ 6a77e79685b8849b49397635 
+7
+6a77e79685b8849b49397635 -  6a77e79685b8849b49397635 

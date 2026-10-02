@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","14428","E2E Ordering Flow","","2026-08-08","passed","2026-08-08","","ClientApp.spec.js","",""
+"","5343","Browser Context Declaration","","2026-08-08","passed","2026-08-08","","UIBasicstest.spec.js","",""
+"","9190","Register User","","2026-08-08","failed","2026-08-08","","register.spec.js","",""
+"","5045","Child Windows Handling","","2026-08-08","passed","2026-08-08","","UIBasicstest.spec.js","",""
